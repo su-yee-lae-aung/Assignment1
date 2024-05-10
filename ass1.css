@@ -1,0 +1,247 @@
+.pri{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;  
+    border-radius:5px; 
+}
+
+.second{
+    color:white;
+    text-align:center;
+    background-color:rgba(128, 128, 128, 0.696);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;
+    border-radius:5px;    
+}
+
+.success{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 128, 62, 0.863);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;  
+    border-radius:5px;  
+}
+
+.info{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 47, 128, 0.863);
+    border:none;
+    height:50px;
+    width:70px;
+    margin:10px;  
+    border-radius:5px;  
+}
+
+.warn{
+    color:white;
+    text-align:center;
+    background-color:rgba(205, 161, 50, 0.961);
+    border:none;
+    height:50px;
+    width:90px;
+    margin:10px;  
+    border-radius:5px;  
+}
+
+.danger{
+    color:white;
+    text-align:center;
+    background-color:rgba(255, 0, 47, 0.806);
+    border:none;
+    height:50px;
+    width:90px;
+    margin:10px; 
+    border-radius:5px;   
+}
+
+.round{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:50px;
+}
+.search{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    padding: 20px 20px;
+    margin:10px;   
+    border-radius:50%;
+}
+.icon{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.dash{
+    color:rgba(0, 217, 255, 0.95);
+    text-align:center;
+    background-color:white;
+    border:dashed;
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.link{
+    color:rgba(0, 217, 255, 0.95);
+    text-align:center;
+    background-color:white;
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;   
+}
+
+.click{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.jelly{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    height:50px;
+    width:80px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.fill{
+    color:rgba(0, 217, 255, 0.95);
+    text-align:center;
+    background-color:white;
+    border-color:rgba(0, 217, 255, 0.95);
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.pulse{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.open{
+    color:rgba(0, 217, 255, 0.95);
+    text-align:center;
+    background-color:white;
+    border-color:rgba(0, 217, 255, 0.95);
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.slide{
+    color:rgba(0, 217, 255, 0.95);
+    text-align:center;
+    background-color:white;
+    border-color:rgba(0, 217, 255, 0.95);
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.thro{
+    color:rgba(0, 217, 255, 0.95);
+    text-align:center;
+    background-color:white;
+    border-color:rgba(0, 217, 255, 0.95);
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.off{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.flip{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.mar{
+    color:white;
+    text-align:center;
+    background-color:rgba(0, 217, 255, 0.95);
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:50px;
+}
+
+.cross{
+    color:rgba(0, 217, 255, 0.95);
+    text-align:center;
+    background-color:white;
+    border-color:rgba(0, 217, 255, 0.95);
+    height:50px;
+    width:100px;
+    margin:10px;   
+    border-radius:5px;
+}
+
+.line{
+    color:rgba(0, 217, 255, 0.95);
+    text-align:center;
+    background-color:white;
+    border:none;
+    height:50px;
+    width:100px;
+    margin:10px;   
+}
